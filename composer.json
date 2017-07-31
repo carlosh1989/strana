@@ -4,7 +4,7 @@
 	"homepage": "https://github.com/usmanhalalit/strana",
 	"keywords": ["paginator", "pagination", "page"],
 	"license": "MIT",
-	"minimum-stability": "0.0.1",
+	"minimum-stability": 2.0",
 	"authors":
 	[
 		{
